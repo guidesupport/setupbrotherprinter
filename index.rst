@@ -23,8 +23,8 @@ Alright, so once you see your printer model show up
 * Then, pick the exact version you have. For example, if it's Windows, is it Windows 11? Or if it's a Mac, is it macOS Ventura?
 After that, just click OK to keep going.
 
-.. image:: /instructions 1.png
-   :alt: instructions 1
+.. image:: instructions 1.png
+   :alt: instructions image 1
 
 3. Download the Driver
 You're looking for either the "Full Driver & Software Package" or just the "Printer Driver."
@@ -32,8 +32,8 @@ You're looking for either the "Full Driver & Software Package" or just the "Prin
 * Important: Before you click "Download," make sure to read any notes that are written under the file. They might have important info for you!
 Finally, hit "Download" and save that file onto your computer. You're almost there!
 
-.. image:: /instructions 2.png
-   :alt: instructions 2
+.. image:: instructions 2.png
+   :alt: instructions image 2
 
 4. Time to Install the Software
 After the file is downloaded:
@@ -41,8 +41,8 @@ After the file is downloaded:
 * If you're on a Mac (macOS): You'll need to open the .dmg file you downloaded. After that, just follow the instructions that pop up on your screen to get everything set up.
 
 
-.. image:: /instructions 3.png
-   :alt: instructions 3
+.. image:: instructions 3.png
+   :alt: instructions image 3
 
 
 5. Finish the Installation
@@ -51,8 +51,8 @@ Just follow each step it tells you to do.
 * Then, just let the setup finish up.
 * Once it's all done, your printer should be good to go and ready for you to use!
 
-.. image:: /instructions 4.png
-   :alt: instructions 4
+.. image:: instructions 4.png
+   :alt: instructions image 4
 
 
 
