@@ -3,7 +3,7 @@ setup.brother.com - Guide to Install a brother printer to my computer
 
 If you’ve got a new Brother printer or want to update your old one, installing the right driver from setup.brother.com is the first step. Getting the correct driver installed is key to making it work smoothly with your computer. Here’s a quick and simple guide to help you do it right away.
 
-.. image:: get.png
+.. image:: get1.png
    :alt: setup.brother.com
    :target:    
 
