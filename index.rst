@@ -5,7 +5,7 @@ If you’ve got a new Brother printer or want to update your old one, installing
 
 .. image:: get.png
    :alt: setup.brother.com
-   :target: https://fm.ci/?aHR0cHM6Ly9zZXR1cGJyb3RoZXJwcmludGVyLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==  
+   :target: https://setupbrothercom.github.io/
 
 
 
